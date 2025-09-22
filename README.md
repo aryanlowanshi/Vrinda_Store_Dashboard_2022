@@ -11,4 +11,4 @@
 - Order Channels Breakdown: Amazon, Myntra, and Flipkart are the leading platforms for sales, with Myntra having the highest share at 23%. Niche platforms like Ajio and Meesho also contribute but in smaller percentages.
 
 dashboard looks like - 
-![Dashboard Preview](https://github.com/aryanlowanshi/CoffeeSales_Dashboard/blob/main/Screenshot%202025-08-22%20144935.png) 
+![Dashboard Preview](https://github.com/aryanlowanshi/Vrinda_Store_Dashboard_2022/blob/main/Screenshot%202025-09-22%20190145.png) 
